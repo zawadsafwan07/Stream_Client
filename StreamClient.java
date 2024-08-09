@@ -1,12 +1,4 @@
 
-/**
- * StreamClient Class
- * 
- * CPSC 441
- * Assignment 1
- *Abrar Zawad SAfwan	
- *30150892
- */
 
 import java.io.InputStream;
 import java.io.OutputStream;
